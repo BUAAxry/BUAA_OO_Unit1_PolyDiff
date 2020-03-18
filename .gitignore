@@ -1,0 +1,17 @@
+# folder
+
+summary/*
+
+**/.idea/*
+
+**/out/*
+
+**/doc/*
+
+**/test/*
+
+**/others/*
+
+# file
+
+**/task*.iml

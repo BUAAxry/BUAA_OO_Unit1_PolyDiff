@@ -1,0 +1,15 @@
+# folder
+
+.idea/*
+
+out/*
+
+doc/*
+
+test/*
+
+others/*
+
+# file
+
+task2.iml
